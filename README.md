@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sakilu/go-opencc-crawler.svg?branch=master)](https://travis-ci.org/sakilu/go-opencc-crawler)
+[![Build Status](https://travis-ci.org/goodjob1114/go-opencc-crawler.svg?branch=master)](https://travis-ci.org/goodjob1114/go-opencc-crawler)
 
 goopencc
 ========
